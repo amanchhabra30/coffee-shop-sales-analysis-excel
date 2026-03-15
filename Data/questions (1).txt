@@ -1,0 +1,21 @@
+Questions:
+1.Add a new column to calculate Revenue?
+2.Add new column to calculate Month and Day of Week based 
+  on transaction date?
+3.Add a new column to extract Hour from the transaction time
+----------------
+1.Insert a Pivottable to show revenue by month
+2.Add two more PivotTables to show the number of transactions
+  by product category,sorted descending by transactions
+3.Add a PivotTable to show the no.of transactions  and revenue
+  by product type,sorted descending and filter top 15 by transactions
+
+-------------
+1.Add Pivot chaarts to show revenue by month as a line chart,
+  transactions by day of week and hour of day as column charts,
+  and transactions by product category as a bar chart
+2.Assemble the charts and get top 15 product types 
+
+3. Add a slicer for store location and connect to all pivot tables and charts
+
+4. Make a finalize dashboard 
